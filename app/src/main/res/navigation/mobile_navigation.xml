@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.example.dailyburn.ui.HomeFragment"
+        android:label="Home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/navigation_steps"
+        android:name="com.example.dailyburn.ui.StepsFragment"
+        android:label="Steps"
+        tools:layout="@layout/fragment_steps" />
+
+    <fragment
+        android:id="@+id/navigation_bmi"
+        android:name="com.example.dailyburn.ui.BmiFragment"
+        android:label="BMI"
+        tools:layout="@layout/fragment_bmi" />
+
+    <fragment
+        android:id="@+id/navigation_tips"
+        android:name="com.example.dailyburn.ui.TipsFragment"
+        android:label="Tips"
+        tools:layout="@layout/fragment_tips" />
+
+    <fragment
+        android:id="@+id/navigation_profile"
+        android:name="com.example.dailyburn.ui.ProfileFragment"
+        android:label="Profile"
+        tools:layout="@layout/fragment_profile" />
+</navigation>

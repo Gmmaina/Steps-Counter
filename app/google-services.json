@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "945372501635",
+    "project_id": "daily-burn-24a3d",
+    "storage_bucket": "daily-burn-24a3d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945372501635:android:63bdfe5ce26dc05c63adb6",
+        "android_client_info": {
+          "package_name": "com.example.dailyburn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAfI_W24gm67JjVtcWl-th7JJ4v3t9U3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

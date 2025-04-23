@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Primary Colors (Brand Identity) -->
+    <color name="primary">#3D5A80</color>
+    <color name="primary_variant">#1A237E</color>
+    <color name="secondary">#4CAF50</color>
+    <color name="secondary_variant">#388E3C</color>
+
+    <!-- Backgrounds & Surfaces -->
+    <color name="background">#FFFFFF</color>   <!-- White (default background) -->
+    <color name="surface">#F5F5F5</color>      <!-- Light gray (cards, containers) -->
+    <color name="error">#E53935</color>        <!-- Red (errors, warnings) -->
+
+    <!-- Text & Icons -->
+    <color name="on_primary">#FFFFFF</color>   <!-- White text on primary-colored buttons -->
+    <color name="on_secondary">#FFFFFF</color> <!-- White text on green buttons -->
+    <color name="text_primary">#212121</color> <!-- Almost black (main text) -->
+
+    <!-- Accents & Highlights -->
+    <color name="accent">#FF9800</color>      <!-- Orange (CTA buttons, highlights) -->
+    <color name="calorie_red">#F44336</color>  <!-- Red (calorie counter) -->
+
+    <color name="primary_light">#BBDEFB</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="light_gray_background">#F5F5F5</color>
+    <color name="text_secondary">#757575</color>
+
+    <color name="colorPrimary">#4CAF50</color>
+    <color name="colorPrimaryDark">#388E3C</color>
+    <color name="colorAccent">#FF9800</color>
+    <color name="lightGray">#EFEFEF</color>
+</resources>
